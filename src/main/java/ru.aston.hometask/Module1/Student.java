@@ -1,4 +1,4 @@
-package Module1;
+package ru.aston.hometask.Module1;
 
 import java.util.ArrayList;
 import java.util.Date;
